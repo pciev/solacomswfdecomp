@@ -1,0 +1,11 @@
+[
+xmin 6
+ymin 2
+xmax 1823
+ymax 470
+][
+font 141
+height 600
+color #0097fc
+y 460
+]T[space -190]R[space -177]A[space -184]I[space -110]L[space -198]E[space -190]R[space -177] [space -81]2[space -70]

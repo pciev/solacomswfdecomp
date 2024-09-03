@@ -1,0 +1,18 @@
+[
+xmin 2536
+ymin -40
+xmax 3412
+ymax 360
+readonly 1
+noselect 1
+useoutlines 1
+font 21
+height 280
+color #ff422a00
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+variablename pct_str
+]

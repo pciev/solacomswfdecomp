@@ -1,0 +1,11 @@
+[
+xmin 17
+ymin -22
+xmax 1086
+ymax 172
+][
+font 143
+height 200
+color #ffffff
+y 160
+]1[space 11]9[space 11]2[space 11]0[space 11] [space -10]x[space 4] [space -10]1[space 11]2[space 11]0[space 11]0[space 11] [space -10]

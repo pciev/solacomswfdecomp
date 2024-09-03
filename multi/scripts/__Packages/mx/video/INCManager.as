@@ -1,0 +1,3 @@
+interface mx.video.INCManager
+{
+}

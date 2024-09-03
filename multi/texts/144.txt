@@ -1,0 +1,11 @@
+[
+xmin 8
+ymin -25
+xmax 1405
+ymax 203
+][
+font 143
+height 240
+color #064a78
+y 180
+]C[space -30]L[space -38]I[space -25]C[space -30]K[space -40] [space -21]T[space -35]O[space -15] [space -11]S[space -3]E[space -32]E[space -32]

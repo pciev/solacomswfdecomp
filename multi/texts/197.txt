@@ -1,0 +1,11 @@
+[
+xmin 11
+ymin 17
+xmax 799
+ymax 243
+][
+font 194
+height 220
+color #ff0000
+y 220
+]CL[space -7]O[space 16]S[space 34]E[space 4]

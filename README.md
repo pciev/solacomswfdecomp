@@ -17,8 +17,8 @@ I am working on matching the .flv files from the website archive to the swf's so
 - [x] feat.swf
 - [x] game.swf
 - [x] home.swf
-- [ ] multi.swf
-- [ ] shep.swf
+- [x] multi.swf
+- [x] shep.swf
 - [ ] splash-intro.swf
 - [ ] splash.swf
 - [ ] story.swf
