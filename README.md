@@ -6,9 +6,9 @@ Decompiled using [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/j
 - [x] char.swf
 - [x] ClearExternalPlaySeekMute.swf
 - [x] ClearOverPlaySeekMute.swf
-- [ ] feat.swf
+- [x] feat.swf
 - [x] game.swf
-- [ ] home.swf
+- [x] home.swf
 - [ ] multi.swf
 - [ ] shep.swf
 - [ ] splash-intro.swf

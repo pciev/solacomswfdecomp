@@ -1,0 +1,3 @@
+Your robot is your weapon as you pick up enemies and throw them for damage, or catch missiles and other objects 
+--- RECORDSEPARATOR ---
+to toss as your own explosive projectiles.

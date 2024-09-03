@@ -1,0 +1,14 @@
+[
+xmin 11
+ymin 21
+xmax 13777
+ymax 691
+][
+font 140
+height 280
+color #422a00
+y 260
+]S[space 22]p[space -5]e[space 18]c[space 12]i[space -10]a[space 2]l[space -10] a[space 2]i[space -10]r[space -30]c[space 12]r[space -27]a[space 2]ft[space 8] b[space -5]e[space 18]c[space 6]o[space 7]m[space 10]e[space 18] av[space -11]a[space 2]i[space -10]l[space -10]a[space 2]b[space -5]l[space -10]e[space 18] t[space 8]o[space 7] t[space 8]a[space 2]k[space -20]e[space 18] o[space 6]n[space 3] a[space 2]e[space 18]r[space -22]i[space -9]a[space 2]l[space -10] r[space -27]a[space 2]c[space 6]e[space 18]-[space -23]b[space -5]a[space 1]s[space 8]e[space 18]d[space -5] c[space 12]h[space -1]a[space 2]l[space -10]l[space -10]e[space 18]n[space 3]g[space 11]e[space 18]s[space 8],[space -20] o[space 6]r[space -19] i[space -10]nv[space -10]i[space -10]t[space 8]e[space 18] fr[space -21]i[space -9]e[space 18]n[space 3]d[space -5]s[space 8] v[space -10]i[space -10]a[space 2] l[space -10]o[space 6]c[space 10]a[space 2]l[space -10] c[space 6]o[space 7]n[space 3]n[space 3]e[space 18]c[space 12]t[space 8]i[space -10]o[space 6]n[space 3] f[space -5]o[space 6]r[space -19] a[space 2] [
+x 0
+y 620
+]4[space 22]-[space -23]p[space -5]e[space 18]r[space -24]s[space 8]o[space 6]n[space 3] r[space -27]a[space 2]c[space 6]e[space 18] t[space 8]h[space -1]r[space -30]o[space 6]u[space -3]g[space 11]h[space -1] t[space 8]h[space -1]e[space 18] s[space 8]k[space -13]i[space -10]e[space 18]s[space 8].[space -25]

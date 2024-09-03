@@ -1,0 +1,11 @@
+[
+xmin 16
+ymin -12
+xmax 13659
+ymax 405
+][
+font 142
+height 440
+color #ffffff
+y 340
+]G[space -57]O[space -39]R[space -81]G[space -58]E[space -76]O[space -38]U[space -33]S[space -28] [space -33]V[space -72]I[space -66]S[space -28]U[space -48]A[space -49]L[space -85]S[space -28] [space -17]U[space -33]T[space -75]I[space -66]L[space -85]I[space -66]Z[space -50]I[space -66]N[space -28]G[space -58] [space -16]3[space 6]D[space -40],[space -19] [space -17]2[space 6]D[space -40],[space -19] [space -17]A[space -48]N[space -28]D[space -25] [space -17]F[space -54]U[space -33]L[space -86]L[space -123]Y[space -80] [space -17]A[space -48]N[space -28]I[space -66]M[space -65]A[space -82]T[space -74]E[space -77]D[space -24] [space -17]C[space -63]U[space -33]T[space -97]-[space -12]S[space -28]C[space -63]E[space -76]N[space -28]E[space -77]S[space -28]

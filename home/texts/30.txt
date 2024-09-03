@@ -1,0 +1,11 @@
+[
+xmin 12
+ymin -6
+xmax 1059
+ymax 172
+][
+font 26
+height 160
+color #402a00
+y 160
+]P[space 20]L[space 20]A[space 6]Y[space 17] [space 20]M[space 20]U[space 21]S[space 20]I[space 19]C[space 19]

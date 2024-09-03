@@ -1,0 +1,12 @@
+[
+xmin 3142
+ymin -12
+xmax 10542
+ymax 355
+translatex 3117
+][
+font 142
+height 440
+color #ffffff
+y 340
+]M[space -61]U[space -34]L[space -124]T[space -74]I[space -66]P[space -35]L[space -85]A[space -84]Y[space -84]E[space -77]R[space -81] [space -17]R[space -81]A[space -55]C[space -63]E[space -76] [space -34]T[space -74]H[space -55]R[space -81]O[space -39]U[space -33]G[space -58]H[space -55] [space -35]T[space -74]H[space -55]E[space -77] [space -16]S[space -28]K[space -104]I[space -65]E[space -76]S[space -28]

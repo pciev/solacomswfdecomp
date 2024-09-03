@@ -1,0 +1,17 @@
+[
+xmin 11
+ymin 21
+xmax 13827
+ymax 1051
+][
+font 140
+height 280
+color #422a00
+y 260
+]W[space -17]i[space -10]t[space 8]h[space -1] o[space 5]v[space -12]e[space 18]r[space -19] 7[space 1]0[space 22] v[space -12]a[space 2]r[space -22]i[space -9]e[space 18]d[space -5] q[space -5]u[space -3]e[space 18]s[space 8]t[space 8]s[space 8] i[space -10]n[space 3]c[space 12]l[space -10]u[space -3]d[space -5]i[space -10]n[space 3]g[space 11] a[space 2] r[space -30]o[space 6]b[space -5]o[space 6]t[space 9] b[space -5]a[space -1]t[space 8]t[space 8]l[space -10]e[space 18] t[space 8]o[space 7]u[space -3]r[space -21]n[space 3]a[space 1]m[space 10]e[space 18]n[space 3]t[space 8],[space -20] t[space 8]a[space 2]k[space -13]i[space -10]n[space 3]g[space 11] t[space 8]h[space -1]e[space 18] g[space 11]u[space -3]n[space 3]n[space 3]e[space 18]r[space -19] p[space -5]o[space 6]s[space 8]i[space -10]t[space 8]i[space -10]o[space 6]n[space 3] o[space 6]f a[space 2]n[space 2] a[space 2]i[space -10]r[space -24]s[space 8]h[space -1]i[space -10]p[space -5] t[space 8]o[space 7] f[space -5]e[space 18]n[space 3]d[space -5] o[space 6]ff [
+x 0
+y 620
+]s[space 8]k[space -13]y[space -10] p[space -5]i[space -10]r[space -27]a[space -1]t[space 8]e[space 18]s[space 8],[space -20] a[space 2]n[space 2]d[space -5] fi[space -10]s[space 8]h[space -1]i[space -10]n[space 3]g[space 11] f[space -5]o[space 6]r[space -19] h[space -1]u[space -3]g[space 11]e[space 18] m[space 10]o[space 6]n[space 3]s[space 8]t[space 8]e[space 18]r[space -24]s[space 8],[space -20] a[space 2]l[space -10]l[space -10] w[space 12]hi[space -10]l[space -10]e[space 18] c[space 6]o[space 7]l[space -10]l[space -10]e[space 18]c[space 12]t[space 8]i[space -10]n[space 3]g[space 11] h[space -1]i[space -10]d[space -5]d[space -5]e[space 18]n[space 3] p[space -5]i[space -10]c[space 12]t[space 8]u[space -2]r[space -30]e[space 18]s[space 8] a[space 2]n[space 2]d[space -5] m[space 10]u[space -3]s[space 8]i[space -10]c[space 12],[space -20] t[space 8]h[space -1]e[space 18] g[space 11]a[space 2]m[space 10]e[space 18] b[space -5]o[space 6]a[space 2]s[space 8]t[space 8]s[space 8] o[space 5]v[space -12]e[space 18]r[space -19] 2[space 15]0[space 22] [
+x 0
+y 980
+]h[space -1]o[space 6]u[space -3]r[space -24]s[space 8] o[space 6]f t[space 8]o[space 7]t[space 9]a[space 2]l[space -10] g[space 11]a[space 2]m[space 10]e[space 18]p[space -5]l[space -10]ay[space -35].[space -25]

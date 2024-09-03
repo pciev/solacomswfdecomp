@@ -1,0 +1,12 @@
+[
+xmin 91
+ymin 131
+xmax 2177
+ymax 646
+][
+font 63
+height 520
+color #004080
+x 60
+y 620
+]F[space -71]E[space -100]A[space -103]T[space -81]U[space -107]R[space -94]E[space -100]S[space -10]

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="text" height="51.5px" width="690.8px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -0.55, -1.05)">
+    <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 0.0, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_W0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 13.15, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 16.55, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 21.6, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 32.85, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 40.1, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_v0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 46.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 53.6, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 62.35, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_70"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 69.4, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_00"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 81.0, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_v0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 87.4, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 94.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 99.6, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 103.05, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 110.15, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_d0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 121.2, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_q0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 128.75, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 136.4, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 143.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 149.35, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 154.4, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 163.75, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 167.15, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 175.1, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_c0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 181.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 185.3, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 192.95, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_d0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 200.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 203.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 211.85, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 222.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 233.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 238.2, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 245.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_b0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 253.05, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 260.35, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 268.95, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_b0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 276.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 283.45, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 288.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 293.55, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 296.95, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 307.55, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 312.6, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 319.95, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 327.6, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 332.75, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 340.7, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 347.75, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_m0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 359.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 367.0, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 374.95, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 380.0, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light__1"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 386.0, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 391.05, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 398.15, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_k0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 405.3, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 408.7, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 416.65, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 427.7, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 432.75, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 440.5, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 451.1, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 458.65, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 466.3, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 474.25, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 482.2, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 489.3, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 498.05, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_p0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 505.6, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 512.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 518.75, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 522.15, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 527.2, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 530.6, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 537.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 549.35, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 556.65, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_f0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 564.8, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 571.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 583.3, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 590.4, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 593.8, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 598.8, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 604.65, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 612.4, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 615.8, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_p0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 626.85, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 631.9, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 642.75, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_f0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 647.15, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 654.25, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 662.2, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_d0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 673.25, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 680.55, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_f0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 685.2, 13.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_f0"/>
+    </g>
+    <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 0.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 5.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_k0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 13.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_y0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 23.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_p0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 30.55, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 33.95, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 38.8, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 45.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 50.8, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 57.9, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 63.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light__1"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 69.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 76.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 84.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_d0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 95.8, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_f0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 100.45, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 103.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 109.7, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 117.45, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 120.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 128.8, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 139.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_f0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 144.25, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 151.55, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 160.3, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 168.05, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 175.7, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 183.25, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 193.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_m0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 206.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 213.3, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 221.25, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 227.1, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 232.15, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 239.25, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 244.25, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 250.1, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light__1"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 256.1, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 263.2, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 266.6, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 273.5, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_w0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 284.2, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 292.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 295.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 298.8, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 309.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_c0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 315.9, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 323.25, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 326.65, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 330.05, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 337.15, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_c0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 343.95, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 349.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 352.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 360.35, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 371.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 379.15, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 382.55, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_d0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 390.1, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_d0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 397.65, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 404.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 416.2, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_p0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 423.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 427.15, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_c0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 433.95, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 439.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 446.7, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 451.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 458.5, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 467.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 474.95, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_n0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 482.85, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_d0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 493.9, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_m0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 506.05, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 513.7, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 519.55, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_i0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 522.95, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_c0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 529.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light__1"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 535.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 540.8, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 548.55, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 559.15, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 566.7, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 573.8, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_m0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 585.95, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 596.55, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_b0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 604.1, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 611.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 618.5, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 624.35, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 629.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 638.75, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 646.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_v0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 652.4, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 659.5, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 668.25, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_20"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 676.0, 31.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_00"/>
+    </g>
+    <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 0.0, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_h0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 7.75, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 15.05, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_u0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 22.7, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_r0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 27.7, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_s0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 37.05, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 44.35, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_f0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 52.5, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 57.55, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_o0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 64.9, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_t0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 70.0, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 77.1, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 84.0, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_g0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 91.55, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 98.65, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_m0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 110.8, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_e0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 117.9, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_p0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 125.45, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_l0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 128.85, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_a0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 135.85, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_y0"/>
+      <use fill="#422a00" height="51.5" transform="matrix(0.0137, 0.0, 0.0, 0.0137, 141.1, 49.0)" width="690.8" xlink:href="#font_AW_Conqueror_Sans_Light_.0"/>
+    </g>
+  </g>
+  <defs>
+    <g id="font_AW_Conqueror_Sans_Light_W0">
+      <path d="M901.0 -692.0 L901.0 -692.0 824.5 -692.0 677.0 -110.0 515.0 -692.0 450.5 -692.0 291.0 -107.5 141.5 -692.0 61.5 -692.0 248.0 4.0 321.5 4.0 480.0 -556.5 637.0 4.0 712.5 4.0 901.0 -692.0 901.0 -692.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_i0">
+      <path d="M81.0 -659.5 L81.0 -659.5 Q83.5 -618.5 125.5 -616.0 168.0 -618.5 171.0 -659.5 168.0 -701.0 125.5 -704.0 83.5 -701.0 81.0 -659.5 L81.0 -659.5 M159.5 0.0 L159.5 0.0 159.5 -460.0 92.5 -460.0 92.5 0.0 159.5 0.0 159.5 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_t0">
+      <path d="M112.5 -178.5 L112.5 -178.5 Q110.5 -104.0 145.0 -47.5 179.5 9.0 276.0 12.0 311.0 11.5 337.5 8.0 L328.0 -48.0 Q312.0 -44.5 290.0 -44.0 224.0 -46.0 201.0 -86.0 178.0 -126.0 179.5 -180.5 L179.5 -404.5 318.0 -404.5 318.0 -459.5 179.5 -459.5 179.5 -624.5 112.5 -624.5 112.5 -459.5 29.5 -459.5 29.5 -404.5 112.5 -404.5 112.5 -178.5 112.5 -178.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_h0">
+      <path d="M479.5 0.0 L479.5 0.0 479.5 -310.5 Q477.5 -390.5 429.0 -431.0 380.0 -472.0 308.5 -472.0 202.5 -466.0 159.5 -402.5 L159.5 -692.0 92.5 -692.0 92.5 0.0 159.5 0.0 159.5 -338.0 Q190.5 -408.5 291.5 -416.0 342.5 -416.0 376.5 -386.0 411.0 -355.5 412.5 -297.0 L412.5 0.0 479.5 0.0 479.5 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_o0">
+      <path d="M487.5 -228.5 L487.5 -228.5 Q487.5 -330.5 432.0 -400.0 376.5 -469.0 266.0 -471.5 155.5 -469.0 100.0 -401.5 44.5 -333.5 44.5 -231.5 44.5 -129.5 100.0 -60.0 155.5 9.0 266.0 11.5 376.5 9.0 432.0 -58.5 487.5 -126.5 487.5 -228.5 L487.5 -228.5 M416.5 -229.5 L416.5 -229.5 Q417.0 -147.5 381.5 -96.0 346.0 -45.0 266.0 -43.5 186.0 -45.5 150.5 -97.5 115.0 -149.5 115.5 -230.5 115.0 -312.5 150.5 -364.0 186.0 -415.0 266.0 -416.5 346.0 -414.5 381.5 -362.5 417.0 -310.5 416.5 -229.5 L416.5 -229.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_v0">
+      <path d="M463.5 -460.0 L463.5 -460.0 398.0 -460.0 238.5 -65.0 79.5 -460.0 8.5 -460.0 202.5 8.0 270.5 8.0 463.5 -460.0 463.5 -460.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_e0">
+      <path d="M400.0 -275.5 L400.0 -275.5 114.0 -275.5 Q120.5 -337.0 154.5 -376.0 188.0 -415.0 258.0 -416.5 328.0 -415.0 364.0 -375.0 400.0 -335.0 400.0 -275.5 L400.0 -275.5 M454.5 -63.0 L454.5 -63.0 413.5 -104.5 Q358.5 -44.0 276.5 -44.0 201.5 -45.0 158.0 -93.0 115.0 -140.5 112.0 -220.5 L472.0 -220.5 Q468.5 -467.5 258.0 -471.5 168.0 -472.0 107.5 -410.5 46.5 -349.5 44.0 -225.5 44.0 -130.0 100.5 -60.5 157.0 8.5 271.0 12.0 390.5 9.0 454.5 -63.0 L454.5 -63.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_r0">
+      <path d="M342.0 -397.0 L342.0 -397.0 358.5 -461.0 Q328.0 -471.0 296.0 -471.5 194.5 -464.5 145.0 -386.0 L145.0 -458.0 84.5 -458.0 84.5 0.0 151.5 0.0 151.5 -325.0 Q201.0 -403.5 287.0 -408.5 316.0 -408.0 342.0 -397.0 L342.0 -397.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_70">
+      <path d="M473.0 -508.0 L473.0 -508.0 45.0 -508.0 45.0 -440.0 396.0 -440.0 307.0 -273.0 Q246.0 -160.5 219.0 -74.5 191.5 11.0 192.0 111.5 L192.0 184.0 260.0 184.0 260.0 110.0 Q258.5 19.0 278.0 -58.5 297.5 -136.0 356.0 -242.0 L473.0 -456.5 473.0 -508.0 473.0 -508.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_00">
+      <path d="M543.5 -254.5 L543.5 -254.5 Q543.5 -362.5 480.0 -439.5 417.0 -516.5 296.0 -520.0 175.0 -516.5 112.0 -439.5 48.5 -362.5 48.5 -254.5 48.5 -146.5 112.0 -69.0 175.0 8.5 296.0 12.0 417.0 8.5 480.0 -69.0 543.5 -146.5 543.5 -254.5 L543.5 -254.5 M468.5 -253.5 L468.5 -253.5 Q469.0 -172.5 427.5 -110.0 386.0 -47.5 296.0 -44.0 205.5 -47.5 164.5 -110.5 123.0 -173.5 123.5 -253.5 123.0 -335.0 164.5 -398.0 205.5 -460.5 296.0 -464.0 386.0 -460.5 427.5 -397.5 469.0 -334.5 468.5 -253.5 L468.5 -253.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_a0">
+      <path d="M431.5 -1.5 L431.5 -1.5 431.5 -312.5 Q430.0 -391.5 378.5 -432.0 326.5 -472.0 243.5 -472.0 132.5 -469.5 69.5 -397.5 L114.5 -356.0 Q166.0 -418.0 240.5 -416.0 361.0 -413.5 364.5 -305.0 L364.5 -242.5 Q304.5 -267.0 229.5 -268.0 156.0 -268.5 103.5 -235.0 51.0 -201.5 48.5 -126.0 50.0 -62.0 95.5 -25.5 141.0 11.0 211.0 11.5 309.5 11.5 368.5 -61.5 L368.5 -1.5 431.5 -1.5 431.5 -1.5 M364.5 -119.0 L364.5 -119.0 Q312.5 -43.5 225.5 -43.5 119.5 -47.5 115.5 -127.0 117.5 -178.5 155.0 -198.0 192.5 -217.0 240.5 -216.0 307.0 -215.5 364.5 -191.0 L364.5 -119.0 364.5 -119.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_d0">
+      <path d="M115.5 -231.5 L115.5 -231.5 Q116.0 -315.5 161.5 -365.5 206.5 -415.0 290.0 -416.0 343.5 -416.5 392.5 -399.5 L392.5 -58.5 Q345.5 -43.5 299.0 -44.0 214.5 -44.5 165.5 -93.0 116.5 -142.0 115.5 -231.5 L115.5 -231.5 M44.5 -230.5 L44.5 -230.5 Q48.0 -103.0 122.0 -45.0 195.5 13.0 293.0 12.0 379.0 12.5 459.5 -13.0 L459.5 -692.0 392.5 -692.0 392.5 -458.0 Q339.5 -471.5 287.0 -472.0 186.0 -471.0 116.5 -408.5 47.5 -346.0 44.5 -230.5 L44.5 -230.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_q0">
+      <path d="M115.5 -231.5 L115.5 -231.5 Q116.0 -315.5 161.5 -365.5 206.5 -415.0 290.0 -416.0 343.5 -416.5 392.5 -399.5 L392.5 -58.5 Q345.5 -43.5 299.0 -44.0 214.5 -44.5 165.5 -93.0 116.5 -142.0 115.5 -231.5 L115.5 -231.5 M392.5 211.5 L392.5 211.5 459.5 211.5 459.5 -446.0 Q375.0 -471.0 296.0 -472.0 178.5 -470.0 112.0 -404.5 45.5 -338.5 44.5 -230.5 48.0 -103.0 122.0 -45.0 195.5 13.0 293.0 12.0 344.0 12.0 392.5 0.0 L392.5 211.5 392.5 211.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_u0">
+      <path d="M279.5 12.0 L279.5 12.0 Q374.5 11.0 424.5 -34.5 475.0 -79.5 475.5 -153.5 L475.5 -460.0 408.5 -460.0 408.5 -159.5 Q407.0 -103.5 371.5 -74.0 336.0 -44.0 279.5 -44.0 226.0 -44.5 189.5 -75.5 153.0 -107.0 151.5 -162.5 L151.5 -460.0 84.5 -460.0 84.5 -153.5 Q85.0 -80.0 135.5 -34.5 186.0 10.5 279.5 12.0 L279.5 12.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_s0">
+      <path d="M337.0 -354.5 L337.0 -354.5 381.5 -396.0 Q315.0 -476.0 220.5 -471.5 150.5 -471.0 108.0 -438.0 65.0 -404.5 64.0 -343.0 68.5 -262.0 130.5 -236.5 192.0 -211.0 254.0 -192.5 315.5 -174.0 320.5 -113.5 321.0 -49.5 217.5 -43.5 135.5 -45.0 87.0 -108.5 L40.5 -67.0 Q111.5 14.5 214.5 11.5 286.0 11.0 334.0 -23.5 381.5 -58.5 383.5 -123.0 379.0 -205.5 317.5 -232.5 256.0 -260.0 194.5 -278.0 132.5 -296.0 128.0 -350.5 124.0 -411.5 217.5 -416.5 291.5 -416.5 337.0 -354.5 L337.0 -354.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_n0">
+      <path d="M495.5 0.0 L495.5 0.0 495.5 -310.5 Q493.5 -390.5 442.5 -431.0 392.0 -472.0 317.0 -472.0 202.0 -465.0 155.5 -400.5 L155.5 -459.0 92.5 -459.0 92.5 0.0 159.5 0.0 159.5 -338.0 Q193.0 -408.5 300.5 -416.0 354.5 -416.0 390.5 -386.0 427.0 -355.5 428.5 -297.0 L428.5 0.0 495.5 0.0 495.5 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_c0">
+      <path d="M449.5 -63.5 L449.5 -63.5 410.0 -105.5 Q352.0 -43.0 271.5 -44.0 187.5 -47.0 149.5 -102.5 111.0 -158.0 112.0 -232.5 111.0 -309.5 148.0 -361.5 185.0 -414.0 268.5 -416.0 351.5 -413.5 400.5 -352.5 L444.5 -396.5 Q383.0 -469.0 266.5 -472.0 157.0 -469.5 101.0 -402.5 44.5 -335.0 44.0 -230.5 43.5 -133.5 97.5 -62.5 151.5 8.5 267.5 12.0 387.0 9.0 449.5 -63.5 L449.5 -63.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_l0">
+      <path d="M159.5 0.0 L159.5 0.0 159.5 -692.0 92.5 -692.0 92.5 0.0 159.5 0.0 159.5 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_g0">
+      <path d="M115.5 -238.5 L115.5 -238.5 Q116.0 -319.5 161.5 -367.5 206.5 -415.0 290.0 -416.0 343.5 -415.5 392.5 -399.5 L392.5 -74.5 Q345.5 -59.5 299.0 -60.0 214.5 -60.5 165.5 -106.5 116.5 -152.5 115.5 -238.5 L115.5 -238.5 M459.5 -446.0 L459.5 -446.0 Q375.0 -470.0 296.0 -472.0 178.5 -470.0 112.0 -406.0 45.5 -341.5 44.5 -237.5 48.0 -115.0 122.0 -59.0 195.5 -3.0 293.0 -4.0 344.0 -4.0 392.5 -16.0 L392.5 25.0 Q392.0 159.5 248.5 156.0 161.0 154.5 106.0 94.0 L63.0 136.5 Q129.5 209.0 246.5 212.0 341.0 213.0 399.5 167.0 458.0 120.5 459.5 12.5 L459.5 -446.0 459.5 -446.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_b0">
+      <path d="M436.5 -229.5 L436.5 -229.5 Q436.0 -145.5 390.5 -95.0 345.5 -45.0 262.0 -44.0 208.5 -43.0 159.5 -59.5 L159.5 -400.5 Q206.5 -416.0 253.0 -416.0 337.5 -415.5 386.5 -367.5 435.5 -319.0 436.5 -229.5 L436.5 -229.5 M159.5 -692.0 L159.5 -692.0 92.5 -692.0 92.5 -13.0 Q177.0 11.5 256.0 12.0 373.5 10.0 440.0 -56.0 506.5 -122.5 507.5 -230.5 504.0 -358.0 430.0 -415.5 356.5 -473.0 259.0 -472.0 208.0 -471.5 159.5 -459.0 L159.5 -692.0 159.5 -692.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_m0">
+      <path d="M807.5 0.0 L807.5 0.0 807.5 -310.5 Q805.5 -390.5 756.5 -431.0 707.5 -472.0 635.5 -472.0 519.5 -468.0 466.5 -386.5 418.5 -472.5 311.5 -472.0 200.0 -465.0 155.5 -400.5 L155.5 -459.0 92.5 -459.0 92.5 0.0 159.5 0.0 159.5 -338.0 Q191.0 -408.5 293.0 -416.0 345.0 -416.0 380.0 -386.0 415.0 -355.5 416.5 -297.0 L416.5 0.0 483.5 0.0 483.5 -303.5 Q483.5 -319.0 481.5 -333.0 519.5 -413.0 617.0 -416.0 669.0 -416.0 704.0 -386.0 739.0 -355.5 740.5 -297.0 L740.5 0.0 807.5 0.0 807.5 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light__1">
+      <path d="M92.0 156.0 L92.0 156.0 164.0 -96.0 97.5 -96.0 40.0 156.0 92.0 156.0 92.0 156.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_k0">
+      <path d="M159.5 0.0 L159.5 0.0 159.5 -692.0 92.5 -692.0 92.5 0.0 159.5 0.0 159.5 0.0 M484.0 0.0 L484.0 0.0 259.0 -238.5 485.5 -460.0 399.0 -460.0 178.0 -237.5 395.0 0.0 484.0 0.0 484.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_p0">
+      <path d="M436.5 -228.5 L436.5 -228.5 Q436.0 -144.5 390.5 -94.5 345.5 -45.0 262.0 -44.0 208.5 -43.0 159.5 -59.5 L159.5 -400.5 Q206.5 -416.0 253.0 -416.0 337.5 -415.5 386.5 -367.0 435.5 -318.0 436.5 -228.5 L436.5 -228.5 M507.5 -229.5 L507.5 -229.5 Q504.0 -357.0 430.0 -415.0 356.5 -473.0 259.0 -472.0 173.0 -471.5 92.5 -446.0 L92.5 211.5 159.5 211.5 159.5 -1.0 Q212.5 12.5 265.0 12.0 366.0 11.0 435.5 -51.5 504.5 -114.0 507.5 -229.5 L507.5 -229.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_f0">
+      <path d="M112.5 -501.5 L112.5 -501.5 112.5 -459.5 29.5 -459.5 29.5 -404.5 112.5 -404.5 112.5 0.0 179.5 0.0 179.5 -404.5 318.0 -404.5 318.0 -459.5 179.5 -459.5 179.5 -499.0 Q181.0 -644.5 300.5 -648.0 332.0 -647.5 358.0 -636.5 L375.0 -693.0 Q341.5 -704.5 307.5 -704.0 206.5 -701.0 159.0 -641.0 112.0 -581.0 112.5 -501.5 L112.5 -501.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_y0">
+      <path d="M271.5 213.0 L271.5 213.0 271.5 13.0 465.0 -460.0 399.5 -460.0 239.5 -61.5 79.5 -460.0 9.0 -460.0 204.5 13.0 204.5 213.0 271.5 213.0 271.5 213.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_w0">
+      <path d="M756.0 -460.0 L756.0 -460.0 691.5 -460.0 563.0 -75.5 425.0 -460.0 364.5 -460.0 227.0 -74.5 97.5 -460.0 28.0 -460.0 191.0 8.0 253.5 8.0 393.0 -371.5 530.5 8.0 593.0 8.0 756.0 -460.0 756.0 -460.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_20">
+      <path d="M69.5 -441.0 L69.5 -441.0 114.0 -398.0 Q163.5 -460.5 256.0 -460.5 316.5 -460.0 356.0 -431.0 395.0 -401.5 396.5 -344.5 400.0 -275.5 326.0 -215.0 252.5 -154.5 58.5 -50.0 L58.5 0.0 517.5 0.0 517.5 -64.0 184.5 -64.0 Q300.5 -122.5 384.0 -187.5 467.5 -252.5 471.5 -341.5 468.0 -436.0 405.5 -478.0 343.0 -520.5 262.0 -519.5 139.0 -519.5 69.5 -441.0 L69.5 -441.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_AW_Conqueror_Sans_Light_.0">
+      <path d="M76.5 -49.5 L76.5 -49.5 Q79.5 -3.5 125.5 -0.5 172.0 -3.5 175.5 -49.5 172.0 -96.0 125.5 -99.5 79.5 -96.0 76.5 -49.5 L76.5 -49.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

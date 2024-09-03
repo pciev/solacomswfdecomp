@@ -1,0 +1,12 @@
+[
+xmin 3266
+ymin -12
+xmax 10421
+ymax 394
+translatex 3231
+][
+font 142
+height 440
+color #ffffff
+y 340
+]U[space -33]N[space -29]I[space -66]Q[space -39]U[space -33]E[space -77] [space -16]R[space -81]O[space -39]B[space -54]O[space -49]T[space -97]-[space -12]B[space -54]A[space -48]S[space -28]E[space -77]D[space -24] [space -17]B[space -54]A[space -82]T[space -74]T[space -74]L[space -86]E[space -77] [space -16]S[space -28]Y[space -86]S[space -28]T[space -74]E[space -77]M[space -61]
