@@ -4,8 +4,8 @@ Decompiled using [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/j
 
 - Files decompiled:
 - [x] char.swf
-- [ ] ClearExternalPlaySeekMute.swf
-- [ ] ClearOverPlaySeekMute.swf
+- [x] ClearExternalPlaySeekMute.swf
+- [x] ClearOverPlaySeekMute.swf
 - [ ] feat.swf
 - [x] game.swf
 - [ ] home.swf
