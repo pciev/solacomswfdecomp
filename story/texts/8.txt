@@ -1,0 +1,12 @@
+[
+xmin 1158
+ymin 26
+xmax 2672
+ymax 243
+translatex 1138
+][
+font 7
+height 240
+color #422a00
+y 220
+]LOADING SITE

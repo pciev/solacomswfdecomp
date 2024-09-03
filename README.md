@@ -2,7 +2,7 @@
 
 Decompiled using [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)   
 
-This is a (mostly) complete decompilation of [solatorobo.com](https://solatorobo.org)'s Flash .swf files.
+This is a (mostly) complete decompilation/asset rip of [solatorobo.com](https://solatorobo.org)'s Flash .swf files.
 - It contains all their assets and (possibly?) complete ActionScript code.
 - - It is possible that I am missing something! I'm not an expert, just trying my best.
    
@@ -19,6 +19,6 @@ I am working on matching the .flv files from the website archive to the swf's so
 - [x] home.swf
 - [x] multi.swf
 - [x] shep.swf
-- [ ] splash-intro.swf
-- [ ] splash.swf
+- [x] splash-intro.swf
+- [x] splash.swf
 - [ ] story.swf
