@@ -21,4 +21,4 @@ I am working on matching the .flv files from the website archive to the swf's so
 - [x] shep.swf
 - [x] splash-intro.swf
 - [x] splash.swf
-- [ ] story.swf
+- [x] story.swf
