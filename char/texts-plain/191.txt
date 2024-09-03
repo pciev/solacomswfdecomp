@@ -1,0 +1,25 @@
+Age: 20
+--- RECORDSEPARATOR ---
+Height: 170cm
+--- RECORDSEPARATOR ---
+Race: Felineko
+--- RECORDSEPARATOR ---
+Type of cat: Russian Blue
+--- RECORDSEPARATOR ---
+She is the head of Kurvaz's Special Operations 
+--- RECORDSEPARATOR ---
+unit. Always optimistic and rather domineering, 
+--- RECORDSEPARATOR ---
+she speaks with an imperious drawl and is usually 
+--- RECORDSEPARATOR ---
+seen with her subordinates Calua and Gren, with 
+--- RECORDSEPARATOR ---
+whom she has been working together with for 
+--- RECORDSEPARATOR ---
+quite some time. She manages her team under 
+--- RECORDSEPARATOR ---
+the direction of the Kurvaz leader, Bruno, but has 
+--- RECORDSEPARATOR ---
+a bit of conflict within herself about Bruno’s 
+--- RECORDSEPARATOR ---
+increasingly aggressive and inhumane orders.

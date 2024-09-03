@@ -1,0 +1,25 @@
+Age: 17
+--- RECORDSEPARATOR ---
+Height: 140cm
+--- RECORDSEPARATOR ---
+Race: Caninu
+--- RECORDSEPARATOR ---
+Type of dog: Mutt
+--- RECORDSEPARATOR ---
+The main protagonist of the story. Rides his 
+--- RECORDSEPARATOR ---
+beloved Robo, Dahak, and makes a living as a 
+--- RECORDSEPARATOR ---
+Hunter together with his little sister-like 
+--- RECORDSEPARATOR ---
+companion, Chocolat. He can be a little rough 
+--- RECORDSEPARATOR ---
+around the edges, but he's honest, kind, and good 
+--- RECORDSEPARATOR ---
+at taking care of others; the classic "alpha dog." 
+--- RECORDSEPARATOR ---
+An orphan with no memory of his past or how he 
+--- RECORDSEPARATOR ---
+came to pilot Dahak, Red is a Caninu with his 
+--- RECORDSEPARATOR ---
+nose firmly pointing toward the future.

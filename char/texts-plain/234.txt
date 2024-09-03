@@ -1,0 +1,23 @@
+Age: 40
+--- RECORDSEPARATOR ---
+Height: 190cm
+--- RECORDSEPARATOR ---
+Race: Caninu
+--- RECORDSEPARATOR ---
+Type of dog: German Shepherd
+--- RECORDSEPARATOR ---
+The leader of Kurvaz and a notable figure for 
+--- RECORDSEPARATOR ---
+establishing the biggest guild in the Republic. 
+--- RECORDSEPARATOR ---
+Has proactively made a public name for himself 
+--- RECORDSEPARATOR ---
+and never breaks the law outright, but takes 
+--- RECORDSEPARATOR ---
+advantage of loopholes to execute his schemes. 
+--- RECORDSEPARATOR ---
+He never kills innocents, but achieves results 
+--- RECORDSEPARATOR ---
+through intimidation, threats and blackmail. He is 
+--- RECORDSEPARATOR ---
+haughty and arrogant.

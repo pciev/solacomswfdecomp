@@ -1,0 +1,13 @@
+[
+xmin 4886
+ymin 5
+xmax 10820
+ymax 568
+translatex 4846
+][
+font 142
+height 720
+letterspacing -140
+color #ffffff
+y 540
+]M[space 39]E[space 14]R[space 8]V[space 22]E[space 14]I[space 32]LLE[space 14] [space 113]M[space 39]I[space 32]LLI[space 32]O[space 76]N[space 94]

@@ -3,11 +3,11 @@
 Decompiled using [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 
 - Files decompiled:
-- [ ] char.swf
+- [x] char.swf
 - [ ] ClearExternalPlaySeekMute.swf
 - [ ] ClearOverPlaySeekMute.swf
 - [ ] feat.swf
-- [ ] game.swf
+- [x] game.swf
 - [ ] home.swf
 - [ ] multi.swf
 - [ ] shep.swf

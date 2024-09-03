@@ -1,0 +1,35 @@
+[
+xmin 7
+ymin 12
+xmax 3509
+ymax 3113
+][
+font 155
+height 240
+color #422a00
+y 220
+]W[space -14]i[space -9]t[space 7]h o[space 4]v[space -10]e[space 15]r[space -17] 7[space 1]0[space 18] q[space -4]u[space -1]e[space 15]s[space 7]t[space 7]s[space 8] t[space 7]o[space 5] c[space 5]o[space 5]m[space 9]p[space -3]l[space -8]e[space 15]t[space 7]e[space 15] [
+x 0
+y 540
+]t[space 7]he[space 15] v[space -10]a[space 1]r[space -19]i[space -9]e[space 15]t[space 7]y[space -9] i[space -9]s[space 8] a[space 1]l[space -8]m[space 9]o[space 6]s[space 8]t[space 7] e[space 15]n[space 3]d[space -4]l[space -8]e[space 15]s[space 7]s[space 8],[space -16] fr[space -26]o[space 5]m[space 9] [
+x 0
+y 840
+]p[space -4]l[space -8]a[space 1]y[space -9]i[space -9]n[space 3]g[space 9] m[space 8]a[space -1]t[space 7]c[space 10]hm[space 8]a[space 2]k[space -16]e[space 14]r[space -17] t[space 7]o[space 5] s[space 7]o[space 6]l[space -8]v[space -9]i[space -9]n[space 3]g[space 9] a[space 1] [
+x 0
+y 1160
+]r[space -26]o[space 5]b[space -3]b[space -3]e[space 15]r[space -17]y[space -9] m[space 6]y[space -10]s[space 7]t[space 7]e[space 15]r[space -17]y[space -31].[space -22] He[space 15]r[space -27]e[space 14] a[space 1]r[space -26]e[space 14] j[space -22]u[space -1]s[space 8]t[space 7] [
+x 0
+y 1480
+]t[space 7]w[space 10]o[space 5] e[space 13]x[space -1]a[space 2]m[space 9]p[space -3]l[space -8]e[space 15]s[space 7]:[space -20][
+x 0
+y 2100
+]FE[space -10]N[space 14]D[space 5]I[space -18]N[space 14]G[space -20] O[space -7]FF[space -1] S[space 25]K[space -27]Y[space -19] P[space 7]I[space -19]R[space -13]A[space -36]T[space -9]E[space -17]S[space 25]:[space -20][
+x 0
+y 2420
+]T[space -42]a[space 1]k[space -16]e[space 14] ho[space 5]l[space -8]d[space -3] o[space 5]f t[space 7]he[space 15] g[space 9]u[space -1]n[space 3]n[space 3]e[space 15]r[space -17] p[space -4]o[space 5]s[space 8]i[space -8]t[space 7]i[space -9]o[space 6]n[space 3] [
+x 0
+y 2720
+]t[space 7]o[space 5] s[space 7]ho[space 5]o[space 5]t[space 7] d[space -4]o[space 4]w[space 11]n[space 3] a[space -1]t[space 7]t[space 7]a[space 1]c[space 10]k[space -11]i[space -9]n[space 3]g[space 9] [
+x 0
+y 3040
+]s[space 7]k[space -10]y[space -9] p[space -4]i[space -8]r[space -24]a[space -1]t[space 7]e[space 15]s[space 7].[space -21]

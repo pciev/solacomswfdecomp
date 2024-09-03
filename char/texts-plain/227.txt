@@ -1,0 +1,21 @@
+Age: 29
+--- RECORDSEPARATOR ---
+Height: 180cm
+--- RECORDSEPARATOR ---
+Race: Caninu
+--- RECORDSEPARATOR ---
+Type of dog: Collie
+--- RECORDSEPARATOR ---
+The Officer and Development Chief of Kurvaz 
+--- RECORDSEPARATOR ---
+and Bruno's personal secretary. Considered a 
+--- RECORDSEPARATOR ---
+notable genius even in the Shepherd Republic, 
+--- RECORDSEPARATOR ---
+she has put her skills to work in many different 
+--- RECORDSEPARATOR ---
+fields. She is particularly brilliant when it comes 
+--- RECORDSEPARATOR ---
+to Robo designs, and is personally responsible for 
+--- RECORDSEPARATOR ---
+raising the standard of Kurvaz machines.

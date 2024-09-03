@@ -1,0 +1,19 @@
+Age: 19
+--- RECORDSEPARATOR ---
+Height: 160cm
+--- RECORDSEPARATOR ---
+Race: Caninu
+--- RECORDSEPARATOR ---
+Type of dog: Kishu-inu
+--- RECORDSEPARATOR ---
+A member of Kurvaz's Special Operations unit 
+--- RECORDSEPARATOR ---
+and Opéra's faithful subordinate. Has pledged his 
+--- RECORDSEPARATOR ---
+allegiance to Opéra and is very straight-laced and 
+--- RECORDSEPARATOR ---
+incredibly serious. He is always having to struggle 
+--- RECORDSEPARATOR ---
+with Calua's impulsive nature and seems to get 
+--- RECORDSEPARATOR ---
+the bad end of the deal.

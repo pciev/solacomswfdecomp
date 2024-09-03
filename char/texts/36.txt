@@ -1,0 +1,13 @@
+[
+xmin 74
+ymin 131
+xmax 5131
+ymax 646
+][
+font 27
+height 520
+letterspacing -132
+color #004080
+x 40
+y 620
+]T[space 51]HE[space 32] [space 50] [space 50]S[space 122]HE[space 32]P[space 81]HE[space 32]R[space 38]D[space 23] [space 50] [space 50]R[space 38]E[space 32]P[space 81]U[space 25]B[space 68]L[space 23]I[space 48]C[space 25]

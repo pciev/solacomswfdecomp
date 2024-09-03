@@ -1,0 +1,12 @@
+[
+xmin 4845
+ymin 13
+xmax 7149
+ymax 560
+translatex 4846
+][
+font 142
+height 720
+color #ffffff
+y 540
+]T[space -122]I[space -108]A[space -82]M[space -109]A[space -135]T[space -122]

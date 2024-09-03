@@ -1,0 +1,32 @@
+[
+xmin 7
+ymin 12
+xmax 3419
+ymax 2799
+][
+font 155
+height 240
+color #422a00
+y 220
+]I[space -18]n[space 3] a[space 1]d[space -3]d[space -3]i[space -8]t[space 7]i[space -9]o[space 6]n[space 3] t[space 7]o[space 5] q[space -4]u[space -1]e[space 15]s[space 7]t[space 7]s[space 8] t[space 7]he[space 15]r[space -27]e[space 14] a[space 1]r[space -26]e[space 14] [
+x 0
+y 540
+]m[space 8]u[space -1]l[space -8]t[space 7]i[space -9]p[space -3]l[space -8]e[space 15] m[space 8]i[space -8]n[space 3]i[space -9]-[space -20]g[space 9]a[space 2]m[space 9]e[space 15]s[space 7] t[space 7]ha[space -1]t[space 7] c[space 7]a[space 2]n[space 4] b[space -4]e[space 15] [
+x 0
+y 840
+]c[space 10]ha[space 1]l[space -8]l[space -8]e[space 15]n[space 3]g[space 9]e[space 15]d[space -4] a[space 1]g[space 10]a[space 2]i[space -8]n[space 3] a[space 1]n[space 4]d[space -4] a[space 1]g[space 10]a[space 2]i[space -8]n[space 3].[space -22] [
+x 0
+y 1160
+]He[space 15]r[space -27]e[space 14] a[space 1]r[space -26]e[space 14] a[space 1] c[space 5]o[space 5]u[space -1]p[space -3]l[space -8]e[space 15] e[space 13]x[space -1]a[space 2]m[space 9]p[space -3]l[space -8]e[space 15]s[space 7]:[space -20][
+x 0
+y 1780
+]A[space -11]I[space -18]R[space -8] G[space -20]R[space -13]A[space -11]N[space 14]D[space 5] P[space 7]R[space -8]I[space -18]X[space -10]:[space -20][
+x 0
+y 2100
+]P[space -3]a[space 1]r[space -19]t[space 7]i[space -9]c[space 10]i[space -9]p[space -3]a[space -1]t[space 7]e[space 15] i[space -9]n[space 3] r[space -24]a[space 1]c[space 5]e[space 15]s[space 7] o[space 5]n[space 3] v[space -10]a[space 1]r[space -19]i[space -9]o[space 6]u[space -1]s[space 8] [
+x 0
+y 2420
+]t[space 7]r[space -24]a[space 1]c[space 10]k[space -16]s[space 7] i[space -9]n[space 3] t[space 7]he[space 15] a[space 1]i[space -8]r[space -16] t[space 7]o[space 5] s[space 7]e[space 15]e[space 14] w[space 11]ho[space 5] i[space -9]s[space 8] t[space 7]he[space 15] [
+x 0
+y 2720
+]k[space -10]i[space -9]n[space 3]g[space 9] o[space 5]f t[space 7]he[space 15] s[space 7]k[space -10]i[space -9]e[space 15]s[space 7].[space -21]

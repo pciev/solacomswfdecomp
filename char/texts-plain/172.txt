@@ -1,0 +1,23 @@
+Age: 13
+--- RECORDSEPARATOR ---
+Height: 120cm
+--- RECORDSEPARATOR ---
+Race: Caninu
+--- RECORDSEPARATOR ---
+Type of dog: Pomeranian
+--- RECORDSEPARATOR ---
+Red’s sister-like partner who is very bossy but also 
+--- RECORDSEPARATOR ---
+a great navigator that supports Red over the 
+--- RECORDSEPARATOR ---
+comm system. Since Red is sloppy about money 
+--- RECORDSEPARATOR ---
+she’s really strict and particular when it comes to 
+--- RECORDSEPARATOR ---
+their income. It’s thanks to her organization and 
+--- RECORDSEPARATOR ---
+support that Red is able to work as a Hunter. She 
+--- RECORDSEPARATOR ---
+loves all things mechanical, and is an excellent 
+--- RECORDSEPARATOR ---
+pilot of their airship. 
